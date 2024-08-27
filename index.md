@@ -1,4 +1,4 @@
-theme: jekyll-theme-space
+theme: jekyll-theme-midnight
 ## Abhinav Kotamreddy's First CS193 Homework
 
 
