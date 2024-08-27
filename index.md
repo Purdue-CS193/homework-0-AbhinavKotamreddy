@@ -1,4 +1,3 @@
-theme: jekyll-theme-midnight
 ## Abhinav Kotamreddy's First CS193 Homework
 
 
