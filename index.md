@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Abhinav Kotamreddy's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Class has no quizzes or tests 
+- Class is taught by a student and is really casual
+- I like how the lecture is recorded
 
 1. Numbered
 2. List
